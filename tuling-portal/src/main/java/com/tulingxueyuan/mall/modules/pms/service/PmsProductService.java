@@ -17,6 +17,7 @@ public interface PmsProductService extends IService<PmsProduct> {
      * /product/detail/${this.id}
      * 描述：展示sku和spu信息
      * 嘎嘎香
+     * 嘎嘎香2
      */
     ProductDetailDTO getProductDetail(Long id);
 }
